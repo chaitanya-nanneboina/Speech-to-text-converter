@@ -37,4 +37,4 @@ Testing a speech-to-text converter Python project involves evaluating its perfor
    Test the converter's performance in noisy environments. Introduce background noise and assess how well the system filters out irrelevant sounds, ensuring accurate transcription in real-world conditions.
 
 3. *Speaker Variation:*
-   Verify the system's ability to recognize speech from different speakers. Test with various voices, tones, and speech styles to ensure versatility in han
+   Verify the system's ability to recognize speech from different speakers. Test with various voices, tones, and speech styles to ensure versatility 
